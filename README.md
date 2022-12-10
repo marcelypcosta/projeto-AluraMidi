@@ -1,2 +1,2 @@
-# Projeto-AluraMidi
-Começando com javascript
+<h1 align="center">Alura Midi</h1>
+
