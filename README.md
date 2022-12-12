@@ -23,7 +23,7 @@
 
 <h3 id="acesso">Acesso ao projeto</h3>
 <hr>
-<p>Você pode<a href="https://github.com/marcelypcosta/Projeto-HZC"> baixar</a> o projeto no arquivo zip no repositório</p>
+<p>Você pode<a href="https://github.com/marcelypcosta/Projeto-AluraMidi"> baixar</a> o projeto no arquivo zip no repositório</p>
 
 <h3 id="desenvolvedores">Desenvolvedores</h3>
 <hr>
